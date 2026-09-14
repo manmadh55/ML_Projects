@@ -163,11 +163,9 @@ This prevents information from the test set from influencing the training proces
 ```text
 Sonar-Signal-Classification/
 │
-├── dataset/
-│   └── sonar.csv
+├── sonar_data.csv
 │
-├── notebook/
-│   └── sonar_signal_classification.ipynb
+├── sonar_signal_classification.ipynb
 │
 ├── README.md
 │
