@@ -169,7 +169,7 @@ Sonar-Signal-Classification/
 │
 ├── README.md
 │
-└── .gitignore
+└── requirements.txt
 ```
 
 > The structure can be updated as additional project files are added.
