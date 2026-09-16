@@ -68,8 +68,8 @@ Model Deployment
 
 | #  | Project                                                          | Type                        | Concepts                                                   |
 | -- | ---------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------- |
-| 01 | [Sonar Signal Classification](./01-Sonar-Signal-Classification/) | Classification              | EDA, preprocessing, scaling, binary classification         |
-| 02 | House Price Prediction                                           | Regression                  | Linear Regression, feature engineering, regression metrics |
+| 01 | [Sonar Signal Classification](./01-Sonar_Signal_Classification/) | Classification              | EDA, preprocessing, scaling, binary classification         |
+| 02 | Breast Cancer Diagnosis                                          | Classification              | Linear Regression, feature engineering, regression metrics |
 | 03 | Spam Email Classification                                        | Classification / NLP        | Text preprocessing, TF-IDF, Naive Bayes                    |
 | 04 | Customer Churn Prediction                                        | Classification              | Categorical data, pipelines, model evaluation              |
 | 05 | Fraud Detection                                                  | Classification              | Imbalanced data, SMOTE, precision, recall                  |
