@@ -299,21 +299,12 @@ This keeps project dependencies isolated and avoids package/version conflicts.
 
 > ⚠️ `.venv/` folders are kept locally and should **not** be pushed to GitHub.
 
----
-
-
----
-
----
 
 
 So for each project, I try to:
 
 ```text
 Learn → Implement → Experiment → Compare → Improve
-```
-
----
 
 ---
 
