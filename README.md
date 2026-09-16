@@ -1,7 +1,7 @@
 # 🤖 Machine Learning Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+Machine+Learning+by+Building+%F0%9F%9A%80;One+Project+at+a+Time+%F0%9F%A7%A0;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+Machine_Learning+by+Building+%F0%9F%9A%80;One+Project+at+a+Time+%F0%9F%A7%A0;Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 Welcome to my **Machine Learning Projects** repository!
 
-I am currently learning Machine Learning **practically by building small projects**, experimenting with different datasets, algorithms, preprocessing techniques, and evaluation methods.
+I am currently learning Machine Learning **practically by building projects**, experimenting with different datasets, algorithms, preprocessing techniques, and evaluation methods.
 
 Instead of only learning ML theoretically, I am following a simple approach:
 
@@ -265,20 +265,18 @@ Each project is kept **independent** with its own environment and dependencies.
 ML-Projects/
 │
 ├── 📂 Sonar_Signal_Classification/
-│   ├── 📂 dataset/
-│   ├── 📂 notebook/
-│   ├── 📂 .venv/
-│   ├── 📄 requirements.txt
-│   ├── 📄 .gitignore
-│   └── 📄 README.md
+│   ├── sonar_data.csv
+│   ├── sonar_signal_classification.ipynb
+│   ├── .venv/
+│   ├── requirements.txt
+│   └── README.md
 │
 ├── 📂 Breast_Cancer_Diagnosis/
-│   ├── 📂 dataset/
-│   ├── 📂 notebooks/
-│   ├── 📂 .venv/
-│   ├── 📄 requirements.txt
-│   ├── 📄 .gitignore
-│   └── 📄 README.md
+│   ├── breast_cancer_dataset.csv
+│   ├── breast_cancer_diagnosis.ipynb
+│   ├── .venv/
+│   ├── requirements.txt
+│   └── README.md
 │
 ├── 📂 Future_Projects/
 │
@@ -303,74 +301,11 @@ This keeps project dependencies isolated and avoids package/version conflicts.
 
 ---
 
-# 📈 My Learning Progress
-
-| Area                     | Progress      |
-| ------------------------ | ------------- |
-| 🐍 Python for ML         | 🟢 Practicing |
-| 🔢 NumPy & Pandas        | 🟢 Practicing |
-| 📊 Data Visualization    | 🟢 Practicing |
-| 🔍 EDA                   | 🟢 Practicing |
-| 🧹 Data Preprocessing    | 🟢 Practicing |
-| 📉 Regression            | 🟡 Learning   |
-| 🤖 Classification        | 🟢 Practicing |
-| 📈 Model Evaluation      | 🟡 Learning   |
-| 🔄 Cross-Validation      | 🟡 Learning   |
-| ⚙️ Hyperparameter Tuning | 🟡 Learning   |
-| 🎯 Feature Selection     | 🔵 Upcoming   |
-| 🌲 Ensemble Learning     | 🔵 Upcoming   |
-| 🔵 Unsupervised Learning | 🔵 Upcoming   |
-| 🚀 Deployment            | 🔵 Future     |
-| ☁️ MLOps                 | 🔵 Future     |
 
 ---
 
-# 🧪 Current Focus
-
-### 🔥 Currently Learning
-
-```text
-Hyperparameter Tuning
-        ↓
-Cross-Validation
-        ↓
-Pipelines
-        ↓
-ColumnTransformer
-        ↓
-Feature Selection
-        ↓
-Ensemble Learning
-```
-
-After strengthening these concepts, I plan to move toward:
-
-```text
-Unsupervised Learning
-        ↓
-More ML Projects
-        ↓
-FastAPI / Streamlit
-        ↓
-Docker
-        ↓
-Cloud Deployment
-        ↓
-MLOps
-```
-
 ---
 
-# 🌟 Project Philosophy
-
-I don't want this repository to be just a collection of copied ML notebooks.
-
-The goal is to understand:
-
-> **What am I doing?**
-> **Why am I doing it?**
-> **When should I use it?**
-> **What happens if I change it?**
 
 So for each project, I try to:
 
@@ -379,64 +314,6 @@ Learn → Implement → Experiment → Compare → Improve
 ```
 
 ---
-
-# 🚀 Future Learning
-
-As I progress, I plan to explore:
-
-### Machine Learning
-
-* Feature Engineering
-* Feature Selection
-* Ensemble Learning
-* Advanced Model Optimization
-* Imbalanced Data
-* Model Explainability
-
-### Unsupervised Learning
-
-* K-Means
-* Hierarchical Clustering
-* PCA
-* Anomaly Detection
-
-### Deep Learning
-
-* Neural Networks
-* CNNs
-* Computer Vision
-* NLP
-
-### Modern AI
-
-* Generative AI
-* Transformers
-* RAG
-* AI Agents
-
-### Deployment & MLOps
-
-* Streamlit
-* FastAPI
-* Docker
-* Cloud Deployment
-* ML Pipelines
-* MLOps
-
----
-
-# 📚 Learning Resources
-
-My learning is based on a combination of:
-
-* 📖 Documentation
-* 🎓 Online Courses
-* 🧪 Hands-on Projects
-* 💻 Coding Practice
-* 🔬 Experimentation
-* 📝 Documentation
-
-The projects in this repository are primarily for **learning and practice**.
 
 ---
 
