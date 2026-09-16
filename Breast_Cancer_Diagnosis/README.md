@@ -408,22 +408,13 @@ The project's current `requirements.txt` contains NumPy, Pandas, Matplotlib, Sea
 ```text
 Breast_Cancer_Diagnosis/
 │
-├── 📂 dataset/
-│   └── breast_cancer_dataset.csv
+├─ breast_cancer_dataset.csv
 │
-├── 📂 notebooks/
-│   └── breast_cancer_diagnosis.ipynb
+├─ breast_cancer_diagnosis.ipynb
+├─ requirements.txt
+├─ README.md
 │
-├── 📂 models/
-│   └── ...
-│
-├── 📂 src/
-│   └── ...
-│
-├── 📄 requirements.txt
-├── 📄 README.md
-│
-└── 📂 .venv/
+└─ .venv/
 ```
 
 > `.venv/` should **not** be uploaded to GitHub. Add it to `.gitignore`.
@@ -479,7 +470,7 @@ jupyter notebook
 Open:
 
 ```text
-notebooks/breast_cancer_diagnosis.ipynb
+breast_cancer_diagnosis.ipynb
 ```
 
 ---
@@ -561,7 +552,7 @@ Model Deployment
 
 # 👨‍💻 Author
 
-### G. Manmadh
+### Gonela Manmadh
 
 **B.Tech Computer Science Engineering Student**
 
@@ -571,7 +562,6 @@ Interested in:
 💻 Software Development
 🤖 Machine Learning
 🧠 Artificial Intelligence
-📊 Data Science
 ```
 
 GitHub: **[@manmadh55](https://github.com/manmadh55)**
