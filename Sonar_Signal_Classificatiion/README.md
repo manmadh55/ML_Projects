@@ -211,23 +211,6 @@ These metrics help determine how well the model distinguishes between mines and 
 
 ---
 
-## 🚀 Future Improvements
-
-The project can be extended with:
-
-* Multiple classification algorithms
-* Cross-validation
-* Hyperparameter tuning
-* Feature selection
-* Model comparison
-* Confusion matrix visualization
-* ROC curve
-* Model serialization
-* Interactive prediction interface
-* Deployment
-
----
-
 ## 💡 Learning Outcomes
 
 Through this project, the following Machine Learning concepts are practiced:
