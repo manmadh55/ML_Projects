@@ -1,0 +1,44 @@
+# Virtual environment
+
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Dataset
+
+creditcard.csv
+
+# Environment variables
+
+.env
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Python distribution/build files
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
