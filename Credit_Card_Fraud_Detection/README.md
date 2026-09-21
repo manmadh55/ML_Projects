@@ -1,4 +1,3 @@
-
 # 💳 Credit Card Fraud Detection
 
 A machine learning practice project for detecting fraudulent credit card transactions using classification algorithms and techniques for handling highly imbalanced datasets.
@@ -25,11 +24,9 @@ Because of this imbalance, **accuracy alone is not a reliable evaluation metric*
 ```text
 Credit-Card-Fraud-Detection/
 │
-├── dataset/
-│   └── creditcard.csv
+├──  creditcard.csv
 │
-├── notebook/
-│   └── credit_card_fraud_detection.ipynb
+├── credit_card_fraud_detection.ipynb
 │
 ├── README.md
 ├── requirements.txt
@@ -334,6 +331,3 @@ Machine Learning & Software Development Enthusiast
 ---
 
 
-
-⭐ If you find this repository useful, feel free to explore the individual projects.
->>>>>>> 10baada6548affd81c31c4b87106d196dafa60ed
